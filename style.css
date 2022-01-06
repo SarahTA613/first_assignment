@@ -1,0 +1,49 @@
+body{
+    
+    margin: 0 auto;
+}
+.flex{
+    display: flex;
+}
+.focus{
+    width: 50%;
+    margin: 30px;
+}
+.focus img{
+    width: 60%;
+    margin-left: 50px;
+}
+.yellow{
+    color: rgb(255, 166, 0);
+}
+.container{
+    
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.focus-font{
+    font-size: 50px;
+    border-left: 4px solid salmon;
+    line-height: 30px;
+    display: inline-block;
+    
+}
+.button{
+    background-color: rgb(235, 79, 62);
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 15px 40px;
+    color: aliceblue;
+    
+}
+p{
+    font-size: 20px;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h4{
+    margin-top: 40px;
+}
+h1{
+    padding-left: 20px;
+}
