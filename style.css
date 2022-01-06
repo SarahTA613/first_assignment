@@ -119,5 +119,46 @@ h2{
 .global-img img{
     padding-left: 40px;
 }
+.testimonial{
+    text-align: center;
+    display: block;
+}
+.title{
+    color: #141c3a;
+    font-weight: 800;
+    line-height: 1.125;
+}
+.subtitle{
+    font-weight: 300;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    color: #141c3a;
+}
+.avtar{
+    margin: 2.5rem auto 2rem;
+    max-width: 96px;
+    height: auto;
+    border-radius: 100px;
+}
+.quote{
+    font-size: 20px;
+    font-weight: 300;
+    max-width: 700px;
+    margin: 0 auto 2.5rem;
+}
+.white{color: white;}
+.salmon{color: salmon;}
+footer{
+    background-color: rgb(6, 1, 14);
+}
+h4{
+    color: white;
+}
 
-
+footer h1{
+    font-style: oblique;
+    font-size: 45px;
+}
+.footer{
+    padding: 20px 10px;
+}
