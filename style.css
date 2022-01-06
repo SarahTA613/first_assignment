@@ -63,7 +63,10 @@ h1{
 
 }
 .my-mission img{
-    width: 30%;
+    width: 35%;
+}
+.my-mission p{
+    color: rgb(61, 58, 58);
 }
 .mission{
     background-color: rgb(238, 241, 241);
