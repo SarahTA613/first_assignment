@@ -4,12 +4,14 @@ body{
 }
 .flex{
     display: flex;
+    justify-content: center;
+    
 }
-.focus{
+.section-width{
     width: 50%;
     margin: 30px;
 }
-.focus img{
+.section-width img{
     width: 60%;
     margin-left: 50px;
 }
@@ -18,14 +20,15 @@ body{
 }
 .container{
     
-    margin-left: 40px;
-    margin-top: 40px;
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
 }
 .focus-font{
     font-size: 50px;
     border-left: 4px solid salmon;
-    line-height: 30px;
-    display: inline-block;
+    line-height: 54px;
     
 }
 .button{
@@ -36,10 +39,11 @@ body{
     color: aliceblue;
     
 }
-.focus p{
-    font-size: 20px;
+ p{
+    font-size: 15px;
     font-weight: normal;
     padding-bottom: 10px;
+    line-height: 1.6;
 }
 h4{
     margin-top: 40px;
@@ -47,11 +51,12 @@ h4{
 h1{
     padding-left: 10px;
     font-size: 50px;
+    margin: 0;
 }
 .my-mission{
     height: 300px;
     border-radius: 10px;
-    width: 30%;
+    width: 25%;
 
 }
 .my-mission img{
@@ -60,20 +65,59 @@ h1{
 .mission{
     background-color: rgb(238, 241, 241);
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
+    
 }
 .vission{
     background-color: rgb(247, 203, 210);
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
 }
 .goal{
     background-color: rgb(250, 220, 247);
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
 }
 
 
 .align{
     text-align: center;
 }
+.develop-section{
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: left;
+}
+#develop-img{
+    width: 40%;
+
+}
+#develop-img img{
+    width: 70%;
+    padding-left: 70px;
+}
+.develop-content{
+    width: 60%;
+    padding-right: 60px;
+    padding-top: 40px;
+    margin-right: 50px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 700px;
+    margin: 5px;
+}
+.global-section{
+    background-image: url(/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30%;
+    padding-left: 20px;
+}
+.global-img img{
+    padding-left: 40px;
+}
+
+
