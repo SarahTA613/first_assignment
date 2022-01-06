@@ -87,7 +87,7 @@ h1{
     text-align: center;
 }
 .develop-section{
-    background-image: url(../images/shapes/shape-1.png);
+    background-image: url(/images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 10%;
     background-position: left;
@@ -116,7 +116,7 @@ h3{
     font-size: 20px;
 }
 .global-section{
-    background-image: url(../images/shapes/shape-1.png);
+    background-image: url(/images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 30%;
