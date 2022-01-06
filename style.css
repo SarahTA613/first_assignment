@@ -53,6 +53,9 @@ h1{
     font-size: 50px;
     margin: 0;
 }
+.mission-title{
+    margin-bottom: 20px;
+}
 .my-mission{
     height: 300px;
     border-radius: 10px;
@@ -108,6 +111,9 @@ h2{
     font-size: 30px;
     font-weight: 700px;
     margin: 5px;
+}
+h3{
+    font-size: 20px;
 }
 .global-section{
     background-image: url(/images/shapes/shape-1.png);
